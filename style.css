@@ -1,3 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+.active {
+    background-color: #C8A2C8 !important;
+}
