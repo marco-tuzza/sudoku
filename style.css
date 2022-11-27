@@ -5,3 +5,7 @@ body {
 .active {
     background-color: #C8A2C8 !important;
 }
+
+.blocked {
+    background-color: grey;
+}
