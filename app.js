@@ -1,6 +1,6 @@
 $( ".cell" ).on( "click", function() {
     $(".cell").removeClass("active");
-
+    
     if (!$(this).hasClass("blocked")) 
     {
         $(this).addClass("active");
