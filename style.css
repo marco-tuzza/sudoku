@@ -2,10 +2,28 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.blocked {
+    background-color: grey;
+    font-weight: bold;
+}
+
+.soft-active {
+    background-color: #DECADE;
+}
+
+.soft-active.blocked {
+    background-color: #796b79;
+}
+
+.error {
+    background-color: red !important;
+    font-weight: bold !important;
+}
+
 .active {
     background-color: #C8A2C8 !important;
 }
 
-.blocked {
-    background-color: grey;
+.active.error {
+    color: red !important;
 }
