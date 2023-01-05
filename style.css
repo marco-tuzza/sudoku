@@ -1,5 +1,5 @@
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 .blocked {
@@ -8,7 +8,7 @@ body {
 }
 
 .soft-active {
-    background-color: #DECADE;
+    background-color: #decade;
 }
 
 .soft-active.blocked {
@@ -21,7 +21,7 @@ body {
 }
 
 .active {
-    background-color: #C8A2C8 !important;
+    background-color: #c8a2c8 !important;
 }
 
 .active.error {
